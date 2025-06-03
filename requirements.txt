@@ -5,5 +5,5 @@ seaborn
 nltk
 scikit-learn
 jupyter
-ta-lib
+# ta-lib
 pynance
